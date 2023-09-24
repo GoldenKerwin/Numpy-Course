@@ -13,4 +13,6 @@ Any errors or questions are welcome to contact the author: kekerwin555@gmail.com
 
 More courses will continue to be uploaded as the author learning progresses, so stay tuned!
 
+If u think it's great, please give it a star! Thank u!
+
 Hello GitHub!
